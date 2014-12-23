@@ -3,7 +3,7 @@ Akka Workpulling Pattern Example in Java
 
 ## Introduction
 This project is essentially the Java version of a Scala example.  
-Read all about it here: http://letitcrash.com/post/29044669086/balancing-workload-across-nodes-with-akka-2  
+Read all about it here: http://letitcrash.com/post/29044669086/balancing-workload-across-nodes-with-akka-2.  
 All credits go to the author Derek Wyatt.  
 
 ## How to run
